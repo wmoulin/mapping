@@ -1,0 +1,17 @@
+{
+  "name": "mapping",
+  "version": "0.0.1",
+  "description": "Mapping module based on decorator",
+  "dependencies": {
+    "bluebird": "^3.2.1"
+  },
+  "author": "wilfried Moulin",
+  "repository": {
+    "type": "git",
+    "git": "https://github.com/wmoulin/mapping.git"
+  },
+  "main": "./src/js/mapping.js",
+  "devDependencies": {
+    "should": "^8.2.2"
+  }
+}
